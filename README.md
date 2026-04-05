@@ -1,3 +1,3 @@
-OriginOS WEB 
+LazyOS WEB 
 
-OOSP - OriginWEB open source project
+LOSP - LazyWEB open source project
